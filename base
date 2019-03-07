@@ -1,5 +1,7 @@
 <style>
-
+.sf, hr, table {
+  display: none;
+}
 body {
 	font: 8pt century gothic;
 	color: #000;
@@ -55,7 +57,7 @@ body {
 }
 .first:hover .keyhover1 {
 	display: block;
-	width: 370px;
+	width: 100%;
 	height: 100%;
 	background: #fff;
 	padding: 10px;
@@ -70,7 +72,7 @@ body {
 }
 .second:hover .keyhover2 {
 	display: block;
-	width: 390px;
+	width: 100%;
 	left: 0px;
 	height: 100%;
 	background: #fff;
@@ -86,7 +88,7 @@ body {
 }
 .third:hover .keyhover3 {
 	display: block;
-	width: 390px;
+	width: 100%;
 	left: 0px;
 	height: 100%;
 	background: #fff;
@@ -153,11 +155,8 @@ h4 {
 <img src="http://imageshack.com/a/img923/6052/qbhBm7.png" width="100"></center>
 <p>
 <br><br>
-The sound of satin against leaves, like a snake shedding its skin. There's no wind here, there's no rustling of branches. It's only the imperceptible gusts as their robes move through the forest that makes any noise, the light crunches of their footsteps following each swish. They walk in tandem, a silent procession accompanied by an almost-silent progression. 
-</p><p>They breathe in unison, if they breathe at all, twelve cloaked figures and one child, swaddled in white and held in the leaders' arms. They travel onward_ 
-
-</p><p><br></p><center>
----</center>
+<h3>h3</h3>
+<h4>h4</h4>
 <p>
 Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
 </p><p>
@@ -187,9 +186,8 @@ Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliqu
 <center>
 <br><p></p><img src="http://i.imgur.com/ckH5Elr.png" width="100"></center>
 <p>
-<br><br></p><center><b>name</b> Lucas Ostero
-<br><b>age</b> 25
-<br><b>personality</b> L
+<br><br></p>
+<h3>h3</h3>
 <p>
 Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
 </p><p>
@@ -213,9 +211,9 @@ Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliqu
 <br><p></p><img src="http://i.imgur.com/K9XTSX0.png" width="100"></center>
 <p>
 <br><br>
-more writing also future and about me</p>
-<h3>future</h3>
-<p></p><center><img src="http://i.imgur.com/PHYsaOc.png" width="300"><p>
+
+<h3>h3</h3>
+<p>
 Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
 </p><p>
 Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.</p></center>
