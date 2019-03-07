@@ -1,0 +1,225 @@
+<style>
+
+body {
+	font: 8pt century gothic;
+	color: #000;
+	line-height: 15px;
+	overflow: hidden;
+	text-align: justify;
+	background-image: url("http://imageshack.com/a/img923/2765/cYNMKc.jpg");
+}
+#container {
+	width: 105%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+}
+#key1 {
+	width: 26%;
+	height: 100%;
+	overflow: hidden;
+	left: 3%;
+	top: 0px;
+	padding-top: 10px;
+	padding-right: 15px;
+	background-image: url("http://imageshack.com/a/img923/9181/2cH9PI.png");
+}
+#key2 {
+	width: 26%;
+	height: 100%;
+	overflow: hidden;
+	left: 35%;
+	top: 0px;
+	padding: 15px;
+	background-image: url("http://imageshack.com/a/img923/9181/2cH9PI.png");
+}
+#key3 {
+	width: 26%;
+	height: 100%;
+	overflow: hidden;
+	left: 68%;
+	top: 0px;
+	padding: 15px;
+	background-image: url("http://imageshack.com/a/img923/9181/2cH9PI.png");
+}
+#sidebar {
+	width: 190px;
+	height: 100%;
+	right: 0px;
+	top: 0px;
+	padding: 15px;
+	background: #eee;
+}
+.keyhover1 {
+	display: none;
+}
+.first:hover .keyhover1 {
+	display: block;
+	width: 370px;
+	height: 100%;
+	background: #fff;
+	padding: 10px;
+	padding-top: 10px;
+	margin-top: -25px;
+	text-align: justify;
+	z-index: 2;
+	overflow: auto;
+}
+.keyhover2 {
+	display: none;
+}
+.second:hover .keyhover2 {
+	display: block;
+	width: 390px;
+	left: 0px;
+	height: 100%;
+	background: #fff;
+	padding-top: 10px;
+	padding: 10px;
+	margin-top: -35px;
+	text-align: justify;
+	z-index: 2;
+	overflow: auto;
+}
+.keyhover3 {
+	display: none;
+}
+.third:hover .keyhover3 {
+	display: block;
+	width: 390px;
+	left: 0px;
+	height: 100%;
+	background: #fff;
+	padding-top: 10px;
+	padding: 10px;
+	margin-top: -35px;
+	text-align: justify;
+	z-index: 2;
+	overflow: auto;
+}
+h1 {
+	font: 27px georgia;
+	color: #bbb;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background: transparent;
+	border: 0px solid #888;
+	margin-bottom: -20px;
+	margin-top: 0px;
+}
+h2 {
+	font: 10px georgia;
+	color: #666;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+	margin-left: 0px;
+	text-transform: lowercase;
+	letter-spacing: 2px;
+	background: transparent;
+	margin-bottom: 0px;
+}
+h3 {
+	height: 35px;
+	line-height: 35px;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 25px;
+	font-family: georgia;
+	color: #980046;
+	text-align: center;
+}
+h4 {
+	font: 36px georgia;
+	color: white;
+	text-align: center;
+}
+.dropcap {
+	float: left;
+	margin: 2px;
+}
+</style><div id="container"> 
+
+<div class="first">
+<div id="key1" style="position: absolute;">
+<h4>I</h4>
+<div class="keyhover1" style="position: absolute;">
+<p><br><br></p><h1>cacodemomania</h1>
+<h2>pathological belief that one is inhabited by an evil spirit</h2>
+<br><p></p><center>
+<img src="http://imageshack.com/a/img923/6052/qbhBm7.png" width="100"></center>
+<p>
+<br><br>
+The sound of satin against leaves, like a snake shedding its skin. There's no wind here, there's no rustling of branches. It's only the imperceptible gusts as their robes move through the forest that makes any noise, the light crunches of their footsteps following each swish. They walk in tandem, a silent procession accompanied by an almost-silent progression. 
+</p><p>They breathe in unison, if they breathe at all, twelve cloaked figures and one child, swaddled in white and held in the leaders' arms. They travel onward_ 
+
+</p><p><br></p><center>
+---</center>
+<p>
+Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.
+
+</p><p><br></p><center>
+<img src="http://imageshack.com/a/img922/5112/qJkN7Q.png" width="250"></center>
+<p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.
+<br><br></p><p><br></p></div>
+</div>
+</div>
+
+
+
+
+<div class="second">
+<div id="key2" style="position: absolute;">
+<h4>II</h4>
+<div class="keyhover2" style="position: absolute;">
+<p><br><br></p><h1>malism</h1>
+<h2>the belief that the world is evil</h2>
+<center>
+<br><p></p><img src="http://i.imgur.com/ckH5Elr.png" width="100"></center>
+<p>
+<br><br></p><center><b>name</b> Lucas Ostero
+<br><b>age</b> 25
+<br><b>personality</b> L
+<p>
+Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.
+</p><p>
+Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.</p></center></div>
+</div>
+</div>
+
+
+
+<div class="third">
+<div id="key3" style="position: absolute;">
+<h4>III</h4>
+<div class="keyhover3" style="position: absolute;">
+<p><br><br></p><h1>redivivus</h1>
+<h2>resuscitated; come to life again</h2>
+<center>
+<br><p></p><img src="http://i.imgur.com/K9XTSX0.png" width="100"></center>
+<p>
+<br><br>
+more writing also future and about me</p>
+<h3>future</h3>
+<p></p><center><img src="http://i.imgur.com/PHYsaOc.png" width="300"><p>
+Nam at vehicula massa. Sed quis blandit orci. Aliquam tempus, nisl et semper pharetra, lectus quam fermentum dolor, non viverra nisl dolor sit amet tellus. Vivamus mi eros, euismod eu placerat vel, pharetra vel velit. Quisque vel venenatis turpis. Vivamus diam arcu, euismod congue euismod sed, pellentesque sit amet urna. Curabitur hendrerit, enim et egestas commodo, tellus ipsum blandit orci, non pellentesque diam ex sed mauris. Nam tristique id dui quis bibendum. Proin non mi metus. Quisque quis urna eget purus vestibulum aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum orci nec iaculis aliquet. Pellentesque vehicula aliquam ante non consectetur. Sed in lacinia sapien. In a sapien gravida felis viverra consequat.
+</p><p>
+Morbi nec nibh rutrum, lacinia sem in, venenatis risus. Ut et eros tellus. Aliquam viverra, nisl sit amet bibendum dapibus, ligula metus aliquet lacus, at porta massa libero sit amet lectus. Etiam faucibus lacus vitae lacus eleifend, sit amet elementum neque placerat. Pellentesque dignissim ante sed augue tristique, a consectetur elit consectetur. Phasellus iaculis risus ut egestas elementum. Nam convallis ligula eu odio commodo, et varius sapien sodales. Vestibulum sit amet sem et risus egestas porta sit amet vitae nibh. Etiam ut metus in ex pellentesque convallis eu eu turpis. In luctus nec metus ac elementum. Vivamus nec quam luctus, elementum enim a, pellentesque diam. Proin vulputate tristique metus, ut laoreet dui.</p></center>
+<br><br><p><br></p>
+</div>
+</div>
+</div>
